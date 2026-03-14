@@ -1,0 +1,9 @@
+{
+  "version": "1.0",
+  "restoreCommand": "npm install",
+  "build": {
+    "appLocation": "/",
+    "apiLocation": "api",
+    "outputLocation": "dist"
+  }
+}
